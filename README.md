@@ -1,5 +1,6 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<a href="https://t.me/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/8c7afcc6f374e467abe3e.jpg' width='500"'> </a>
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://github.com">Github.
@@ -10,8 +11,6 @@
 - 📫 How to reach me: t.me/Hansana_Prabath
 - 😄 Nickname: Hansana Tech 
 - ⚡ Fun fact: #NOOB_CODER
-
-<a href="https://t.me/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/8c7afcc6f374e467abe3e.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
