@@ -1,5 +1,5 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)
 <a href="https://github.com/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/0d6a775bc0a7226634524.jpg' width='500"'> </a>
 ## Here Are Some Ideas To Get You Started:
 
