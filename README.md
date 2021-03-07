@@ -1,7 +1,7 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <a href="https://github.com/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/0d6a775bc0a7226634524.jpg' width='500"'> </a>
-## Here are some ideas to get you started:
+## Here Are Some Ideas To Get You Started:
 
 - <b>🔭 I’m Currently Working on</b> <a href="https://github.com">Github.</a>
 - <b>🌱 I’m Currently Learning</b> Python.
@@ -11,9 +11,6 @@
 - <b>📫 How to Reach Me: <a href="https://t.me/Hansana_Prabath"></b>Click Here</b></a>
 - <b>😄 Nickname:</b> ❌ Currenty Not Available ❌
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-// README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=highcontrast&show_icons=true&count_private=true)
+<!-- Your badges You can use the website to generate badges: https://shields.io/-->
+## My Status
+![Hansana's Github Stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=highcontrast&show_icons=true&count_private=true)
