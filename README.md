@@ -1,5 +1,4 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)    ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)    ![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 
 ![Followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)  ![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)
 
@@ -19,6 +18,19 @@
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 ## Social Media
 ![]()
+
+## Software and programming languages I currently use
+
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)    
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)    
+![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## My GitHub Status
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&theme=tokyonight)
