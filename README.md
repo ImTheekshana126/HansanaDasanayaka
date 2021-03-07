@@ -15,4 +15,5 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-![Hansana's GitHub Stats](https://github-readme-stats.vercel.app/api?HansanaDasanayaka=HansanaDasanayaka&show_icons=true&theme=radical)
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=highcontrast&show_icons=true&count_private=true)
