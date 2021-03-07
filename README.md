@@ -13,4 +13,4 @@
 
 <!-- Your badges You can use the website to generate badges: https://shields.io/-->
 ## My Status
-![Hansana's Github Stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=highcontrast&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true)
