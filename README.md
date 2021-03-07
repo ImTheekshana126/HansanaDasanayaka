@@ -3,14 +3,14 @@
 <a href="https://github.com/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/0d6a775bc0a7226634524.jpg' width='500"'> </a>
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://github.com">Github.
+- <b>🔭 I’m currently working on <a href="https://github.com">Github.</a>
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on Telegram.
 - 🤔 I’m looking for help with Python Learning.
 - 💬 Ask me anything about Telegram. 
 - 📫 How to reach me: t.me/Hansana_Prabath
 - 😄 Nickname: Hansana Tech 
-- ⚡ Fun fact: #NOOB_CODER
+- ⚡ Fun fact: #NOOB_CODER</b>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
