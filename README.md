@@ -13,3 +13,7 @@
 - <i><b>💬 Ask Me Anything About</b> <a href="https://telegram.org">Telegram.</a></i>
 - <i><b>📫 How to Reach Me: <a href="https://t.me/Hansana_Prabath"></b>Click Here</b></a></i>
 - <i><b>😄 Nickname:</b> ❌ Currenty Not Available ❌</i>
+
+## My Github Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
