@@ -1,4 +1,4 @@
-# Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## Here are some ideas to get you started:
 
@@ -11,9 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Hey, I am Janindu Malshan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<a href="https://t.me/imjanindu"><img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'> </a>
+<a href="https://t.me/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/4b2c4b8130aefe6c9abc4.jpg' width='500"'> </a>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -29,6 +27,7 @@ You can use the website to generate badges: https://shields.io/
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 
 # MY STATUS
+A #NOOB CODER heartpulse 𝑻𝒉𝒆 𝒉𝒂𝒓𝒅𝒆𝒓 𝒚𝒐𝒖 𝒘𝒐𝒓𝒌 𝒇𝒐𝒓 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈, 𝒕𝒉𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒚𝒐𝒖❜𝒍𝒍 𝒇𝒆𝒆𝒍 𝒘𝒉𝒆𝒏 𝒚𝒐𝒖 𝒂𝒄𝒉𝒊𝒆𝒗𝒆 𝒊𝒕.
 
 ![Janindu's github stats](https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/imjanindu)
