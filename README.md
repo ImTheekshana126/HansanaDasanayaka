@@ -1,5 +1,5 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-![Made With Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)    ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)    ![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 
 ![Followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)  ![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)
 
