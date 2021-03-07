@@ -15,7 +15,7 @@
 
 <!-- Your badges You can use the website to generate badges: https://shields.io/-->
 ## My GitHub Status
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=merko)
 
 ## My Repositories
