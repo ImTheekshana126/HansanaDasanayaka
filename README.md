@@ -1,5 +1,5 @@
 # Hey, I am Hansana Dasanayaka <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  ![Followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)
 
 
 <a href="https://github.com/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/0d6a775bc0a7226634524.jpg' width='500"'> </a>
@@ -14,6 +14,9 @@
 - <b>😄 Nickname:</b> ❌ Currenty Not Available ❌
 
 <!-- Your badges You can use the website to generate badges: https://shields.io/-->
+## Social Media
+![]()
+
 ## My GitHub Status
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=tokyonight)
