@@ -15,4 +15,4 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-<button>Hansana</button>
+![Hansana's GitHub Stats](https://github-readme-stats.vercel.app/api?HansanaDasanayaka=HansanaDasanayaka&show_icons=true&theme=radical)
