@@ -17,9 +17,9 @@
 <!-- Your badges You can use the website to generate badges: https://shields.io/-->
 <!-- [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) -->
 ## Social Media
-![]()
+<a href="HansanaTech">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
-## Software and programming languages I currently use
+## Softwares And Programming Languages I Currently Use...
 
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)    
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)    
