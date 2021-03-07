@@ -9,7 +9,7 @@
 - <b>🤔 I’m Looking for help with</b> Python Learning.
 - <b>💬 Ask Me Anything About</b> <a href="https://t.me/Hansana_Prabath">Telegram.</a> 
 - <b>📫 How to Reach Me: <a href="https://t.me/Hansana_Prabath"></b>Click Here</b></a>
-- <b>😄 Nickname:</b> /**Currenty Not Available**/
+- <b>😄 Nickname:</b> ❌ Currenty Not Available ❌
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
