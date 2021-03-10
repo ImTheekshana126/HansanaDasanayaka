@@ -15,4 +15,4 @@
 
 ## My Github Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=dark)
