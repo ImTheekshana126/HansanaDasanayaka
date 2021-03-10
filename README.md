@@ -37,8 +37,8 @@
 ![]()
 
 ## Please Make a Donation to Me As Much As You Can For My Education..
-![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+<a href="bitcoin.com">![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)</a>
+<a href="paypal.com">![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)</a>
 ![]()
 ![]()
 
