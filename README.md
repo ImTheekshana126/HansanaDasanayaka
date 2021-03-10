@@ -1,9 +1,9 @@
 # *Hey, I am Hansana Dasanayaka* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![GitHub Watchers](https://img.shields.io/github/watchers/HansanaDasanayaka/StrapDown.js.svg?style=flat&label=Watch&maxAge=2592000)](https://GitHub.com/HansanaDasanayaka/StrapDown.js/watchers/)  ![Followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)  ![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)  ![Profile views](https://gpvc.arturio.dev/HansanaDasanayaka)
+![Followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)  ![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)  ![Profile views](https://gpvc.arturio.dev/HansanaDasanayaka)
 
 
-<a href="https://github.com/HansanaDasanayaka"><img align='centre' src='https://telegra.ph/file/0d6a775bc0a7226634524.jpg' width='500"'> </a>
+<a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://github.com/HansanaDasanayaka/img/Header.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
 - <i><b>🔭 I’m Currently Working on</b> <a href="https://github.com">Github.</a></i>
