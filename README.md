@@ -30,9 +30,8 @@
 ## List Of Software I Learned
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
+
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)  ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)  ![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 ![]()
 ![]()
 ![]()
