@@ -13,6 +13,11 @@
 - <i><b>📫 How to Reach Me: <a href="https://t.me/Hansana_Prabath"></b>Click Here</b></a></i>
 - <i><b>😄 Nickname:</b> ❌ Currenty Not Available ❌</i>
 
+## My Github Status
+
+![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=dark) 
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&layout=compact)
+
 ## My Tools & Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  ![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -23,15 +28,18 @@
 ![MicrosoftAzure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## List Of Software I Learned
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![]()
+![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+![DreamWeaver](https://aleen42.github.io/badges/src/dreamweaver.svg)
 ![]()
 ![]()
 ![]()
 
-## My Github Status
-
-![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=dark) 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&layout=compact)
-
+## Please Make a Donation to Me As Much As You Can For My Education..
+![BitCoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![]()
+![]()
 
