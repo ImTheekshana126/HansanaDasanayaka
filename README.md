@@ -13,7 +13,13 @@
 - <i><b>📫 How to Reach Me: <a href="https://t.me/Hansana_Prabath"></b>Click Here</b></a></i>
 - <i><b>😄 Nickname:</b> ❌ Currenty Not Available ❌</i>
 
+## My Tools & Languages
+
+- ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
+
 ## My Github Status
 
 ![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=dark) 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HansanaDasanayaka&layout=compact)
+
+
