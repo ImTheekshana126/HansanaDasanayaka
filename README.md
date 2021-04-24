@@ -5,7 +5,7 @@
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
-- <<b>🔭 I’m Currently Working on</b> <a href="https://github.com">Github.</a>
+- <b>🔭 I’m Currently Working on</b> <a href="https://github.com">Github.</a>
 - <b>🌱 I’m Currently Learning</b> Python.
 - <b>👯 I’m Looking to Collaborate on</b> <a href="https://t.me/HansanaDasanayaka">(Empty)</a>
 - <b>🤔 I’m Looking for help with</b> Python Learning.
