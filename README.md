@@ -5,10 +5,10 @@
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
-- <b>🔭 I’m Currently Working on</b> <a href="https://fiverr.com/hansanaprabath">Fiverr as a FreeLancer</a>
-- <b>🌱 I’m Currently Learning</b> Web Development & Graphic Designing.
-- <b>👯 I’m Looking to Collaborate on</b> <a href="https://fiverr.com/hansanaprabath">Fiverr.com</a>
-- <b>🤔 I’m Looking for help with</b> Python Learning.
+- <b>🔭 I’m Currently Working on :</b> <a href="https://fiverr.com/hansanaprabath">Fiverr as a FreeLancer</a>
+- <b>🌱 I’m Currently Learning :</b> Web Development & Graphic Designing.
+- <b>👯 I’m Looking to Collaborate on :</b> <a href="https://fiverr.com/hansanaprabath">Fiverr.com</a>
+- <b>🤔 I’m Looking for help with :</b> Python Learning.
 - <b>💬 Ask me anything, I will help them in anyway I can.
 - <b>📫 How to Reach Me: <a href="https://t.me/HansanaDasanayaka"></b>@HansanaDasanayaka</b></a>
 
