@@ -5,14 +5,12 @@
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 ## Here Are Some Ideas To Get You Started:
 
-- <b>🔭 I’m Currently Working on</b> <a href="https://github.com">Github.</a>
-- <b>🌱 I’m Currently Learning</b> Python.
-- <b>👯 I’m Looking to Collaborate on</b> <a href="https://t.me/HansanaDasanayaka">(Empty)</a>
+- <b>🔭 I’m Currently Working on</b> <a href="https://fiverr.com/hansanaprabath">Fiverr as a FreeLancer</a>
+- <b>🌱 I’m Currently Learning</b> Web Development & Graphic Designing.
+- <b>👯 I’m Looking to Collaborate on</b> <a href="https://fiverr.com/hansanaprabath">Fiverr.com</a>
 - <b>🤔 I’m Looking for help with</b> Python Learning.
-- <b>💬 Ask Me Anything About</b> <a href="https://telegram.org">Telegram.</a>
+- <b>💬 Ask me anything, I will help them in anyway I can.
 - <b>📫 How to Reach Me: <a href="https://t.me/HansanaDasanayaka"></b>@HansanaDasanayaka</b></a>
-- <b>😄 Nickname:</b> ❌ Currenty Not Available ❌
-
 
 ## 📈 My Github Status
 ![Hansana's GitHub Status](https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=dark) 
