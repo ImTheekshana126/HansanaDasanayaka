@@ -7,14 +7,14 @@
 ### Donate me using cryprocurrency
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
 
-- BTC -: 1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3
-- LTC -: MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG
-- DOGE -: DRqUYnd3c2YSa6V3eXFmpye6EDTQCkT5TH
-- BCH -: bitcoincash:qq3x5hq2fc66djt8gyd36cnreh4me8nudsdag92vld
-- TRX -: TCf1uHbd7Pmcm6P9ycvQJXFnK8nDndTbZV
-- BNB -: 0x494FC6Ba0d2E4C2bFd70687Ca2d351795a3E0ef1
-- ZEC -: t1TxGNKRkSHPoNycS74Ttxra2eRuHntViv2
-- USDT -: TCf1uHbd7Pmcm6P9ycvQJXFnK8nDndTbZV
-- DGB -: D8aCzr7PzL9mgaaH44UoeDz84rDaxrQQ7E
-- DASH -: XunHKq2AXommj22qipb1guiGL7LWqY34ih
+- BTC -: `1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3`
+- LTC -: `MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG`
+- DOGE -: `DRqUYnd3c2YSa6V3eXFmpye6EDTQCkT5TH`
+- BCH -: `bitcoincash:qq3x5hq2fc66djt8gyd36cnreh4me8nudsdag92vld`
+- TRX -: `TCf1uHbd7Pmcm6P9ycvQJXFnK8nDndTbZV`
+- BNB -: `0x494FC6Ba0d2E4C2bFd70687Ca2d351795a3E0ef1`
+- ZEC -: `t1TxGNKRkSHPoNycS74Ttxra2eRuHntViv2`
+- USDT -: `TCf1uHbd7Pmcm6P9ycvQJXFnK8nDndTbZV`
+- DGB -: `D8aCzr7PzL9mgaaH44UoeDz84rDaxrQQ7E`
+- DASH -: `XunHKq2AXommj22qipb1guiGL7LWqY34ih`
 
