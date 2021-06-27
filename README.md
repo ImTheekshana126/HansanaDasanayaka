@@ -5,7 +5,7 @@
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
 ### Donate me using cryprocurrency
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
 
 - BTC -: 1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3
 - LTC -: MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG
