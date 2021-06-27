@@ -6,7 +6,6 @@
 
 ### Donate me using cryprocurrency
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
-[![Donate with Litecoin](https://en.cryptobadges.io/badge/big/MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG3)](https://en.cryptobadges.io/donate/MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG)
 
 - BTC -: 1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3
 - LTC -: MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG
