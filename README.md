@@ -6,21 +6,12 @@
 <h2 align="center">𝙁𝙊𝙇𝙇𝙊𝙒 𝙈𝙀 𝙊𝙉 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼</h2>
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    
-    <a href="https://github.com/HansanaDasanayaka">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    
-    <a href="https://telegram.me/HansanaDasanayaka">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-    
-    <a href="https://www.facebook.com/HansanaDasanayake/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-    
-    <a href="https://www.quora.com/profile/Hansana-Dasanayaka">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://github.com/HansanaDasanayaka">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://telegram.me/HansanaDasanayaka">
+    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.facebook.com/HansanaDasanayake/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.quora.com/profile/Hansana-Dasanayaka">
      <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"></a>
-     
-    <a href="https://codepen.io/hansana">
+ <a href="https://codepen.io/hansana">
      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen.io"></a>
      
     <a href="https://stackoverflow.com/users/16218477/hansana-dasanayakaa">
