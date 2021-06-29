@@ -32,7 +32,7 @@
 
 ### My github status
 
-[![Hansana's github trophy](https://github-profile-trophy.vercel.app/?username=HansanaDasanayaka&row=1)](https://github.com/HansanaDasanayaka/github-profile-trophy)
+<p align="center">[![Hansana's github trophy](https://github-profile-trophy.vercel.app/?username=HansanaDasanayaka&row=1)](https://github.com/HansanaDasanayaka/github-profile-trophy)</p>
 
 
   
