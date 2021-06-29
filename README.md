@@ -1,43 +1,43 @@
 <h1 align="center"><b><i>👋 Hey, I am Hansana Dasanayaka</b></i></h1>
-<p align="center">   
-    <a href="https://github.com/HansanaDasanayaka">
+
+    <a align="center" href="https://github.com/HansanaDasanayaka">
         <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views"></a>  
      
-    <a href="https://github.com/HansanaDasanayaka?tab=followers">
+    <a align="center" href="https://github.com/HansanaDasanayaka?tab=followers">
         <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"
              alt="GitHub followers"   
         >
     </a>
     
-    <a href="https://github.com/HansanaDasanayaka">
+    <a align="center" href="https://github.com/HansanaDasanayaka">
      <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"
              alt="Ratings"   
         >
     </a>
     
-    <a href="https://github.com/HansanaDasanayaka">
+    <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://gpvc.arturio.dev/HansanaDasanayaka"
             alt="Profile Views"   
         >
     </a>
     
-    <a href="https://github.com/HansanaDasanayaka">
+    <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
             alt="Ask Me Anthing"   
         >
     </a>  
     
-    <a href="https://github.com/HansanaDasanayaka">
+    <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Activity-Good-green.svg"
             alt="Activity"   
         >
     </a> 
     
-    <a href="https://github.com/HansanaDasanayaka">
+    <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Ability-Better-red.svg"
             alt="Ability"   
         >
-    </a> </p>
+    </a>
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
