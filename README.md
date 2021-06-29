@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Ability-Better-red.svg"
             alt="Ability"   
         >
-    </a> 
+    </a> </p>
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
