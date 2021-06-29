@@ -26,7 +26,7 @@
     
 <h2 align="center">MY LATEST GITHUB STATUS</h2>
    <p align="center">
-![Hansana's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansanaDasanayakaa&show_icons=true&theme=radical)
+       <img src="https://github-readme-stats.vercel.app/api?username=HansanaDasanayakaa&show_icons=true&theme=radical"/>
  </p>
   
     
