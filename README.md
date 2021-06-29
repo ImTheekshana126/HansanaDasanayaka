@@ -4,6 +4,31 @@
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
+### Follow me on Social Media
+
+<p align="center">   
+    <a href="https://www.instagram.com/hansana_dasanayake/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+             alt="Instagram"   
+        >
+    </a>
+    <a href="https://github.com/HansanaDasanayaka">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+             alt="GitHub"       
+        >
+    </a>
+    <a href="https://telegram.me/HansanaDasanayaka">
+        <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"
+             alt="Telegram"
+        >
+    </a>
+    <a href="https://paypal.me/dilnavi">
+        <img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
+             alt="PayPal"
+        >
+    </a>
+</p
+  
 ### Donate me using cryprocurrency
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
 
