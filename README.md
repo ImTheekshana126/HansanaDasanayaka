@@ -23,17 +23,15 @@
     </a>
 </p>
 
-<h4>MY GITHUB STATUS FROM 2020</h4>
+<h4>MY LATEST GITHUB STATUS</h4>
 
 <p align="center">
   <a href="https://github.com/HansanaDasanayaka/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=HansanaDasanayaka&row=1">
  </a> 
  </p>
-
-
   
-<h4>Donate me using cryprocurrency</h4>
+<h4>DONATE ME USING CRYPTOCURRENCY</h4>
     
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
 
