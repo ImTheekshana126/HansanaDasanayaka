@@ -6,12 +6,26 @@
         <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
     </a>
   
+   <p align="center">   
+    <a href="https://github.com/HansanaDasanayaka?tab=followers">
+        <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000" alt="GitHub followers">
+    </a>
+    
+     <p align="center">   
+    <a href="https://github.com/HansanaDasanayaka">
+        <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana" alt="Ratings">
+    </a>
+      
+       <p align="center">   
+    <a href="https://github.com/HansanaDasanayaka">
+        <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
+    </a>
   </p> 
  
  
  
-[![GitHub followers](https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000)](https://github.com/HansanaDasanayaka?tab=followers)
- ![Ratings](https://img.shields.io/amo/rating/dustman?label=Rating&logo=Hansana)  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)</p>
+[![]()]()
+ ![]()  ![Ask Me Anthing](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)  [![Activity](https://img.shields.io/badge/Activity-Good-green.svg)](https://github.com/) [![Ability](https://img.shields.io/badge/Ability-Better-red.svg)](https://shields.io/)</p>
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
