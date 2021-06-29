@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views"> <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"> <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"> <img src="https://gpvc.arturio.dev/HansanaDasanayaka"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> <img src="https://img.shields.io/badge/Activity-Good-green.svg"> <img src="https://img.shields.io/badge/Ability-Better-red.svg"> <img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"></p>
 
-### FOLLOW ME ON SOCIAL MEDIA
+<h4>FOLLOW ME ON SOCIAL MEDIA</h4>
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -23,7 +23,7 @@
     </a>
 </p>
 
-### MY GITHUB STATUS FROM 2020
+<h4>MY GITHUB STATUS FROM 2020</h4>
 
 <p align="center">
   <a href="https://github.com/HansanaDasanayaka/github-profile-trophy">
@@ -33,7 +33,7 @@
 
 
   
-### Donate me using cryprocurrency
+<h4>Donate me using cryprocurrency</h4>
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
 
 - BTC -: `1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3`
