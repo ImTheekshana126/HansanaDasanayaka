@@ -22,9 +22,9 @@
              alt="Telegram"
         >
     </a>
-    <a href="https://paypal.me/dilnavi">
-        <img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
-             alt="PayPal"
+    <a href="https://bit.ly/Hansana_Dasanayaka">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+             alt="Facebook"
         >
     </a>
 </p
