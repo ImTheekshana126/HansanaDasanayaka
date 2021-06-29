@@ -1,42 +1,32 @@
-<h1 align="center"><b><i>👋 Hey, I am Hansana Dasanayaka</b></i></h1>
+<h1 align="center">👋 Hey, I am Hansana Dasanayaka</h1
 
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-        <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views"></a>  
-     
-    <a align="center" href="https://github.com/HansanaDasanayaka?tab=followers">
+    <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
         <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"
-             alt="GitHub followers"   
-        >
-    </a>
-    
+             alt="GitHub followers">
+  
     <a align="center" href="https://github.com/HansanaDasanayaka">
      <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"
-             alt="Ratings"   
-        >
+             alt="Ratings">
     </a>
     
     <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://gpvc.arturio.dev/HansanaDasanayaka"
-            alt="Profile Views"   
-        >
+            alt="Profile Views">
     </a>
     
     <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
-            alt="Ask Me Anthing"   
-        >
+            alt="Ask Me Anthing">
     </a>  
     
     <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Activity-Good-green.svg"
-            alt="Activity"   
-        >
+            alt="Activity">
     </a> 
     
     <a align="center" href="https://github.com/HansanaDasanayaka">
     <img src="https://img.shields.io/badge/Ability-Better-red.svg"
-            alt="Ability"   
-        >
+            alt="Ability">
     </a>
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
@@ -45,23 +35,19 @@
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-             alt="Instagram"   
-        >
+             alt="Instagram">
     </a>
     <a href="https://github.com/HansanaDasanayaka">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-             alt="GitHub"       
-        >
+             alt="GitHub"    >
     </a>
     <a href="https://telegram.me/HansanaDasanayaka">
         <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"
-             alt="Telegram"
-        >
+             alt="Telegram">
     </a>
     <a href="https://www.facebook.com/HansanaDasanayake/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-             alt="Facebook"
-        >
+             alt="Facebook">
     </a>
 </p>
 
