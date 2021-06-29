@@ -15,11 +15,10 @@
      <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" alt="Quora"></a>
 </p>
     
-    
-
-    
+  
 <h2 align="center">𝙈𝙔 𝙇𝘼𝙏𝙀𝙎𝙏 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎</h2>
    <p align="center">
+       <a href="https://github.com/HansanaDasanayaka">
        <img src="https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=radical"/>
  </p>
   
