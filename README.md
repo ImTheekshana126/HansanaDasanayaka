@@ -5,8 +5,7 @@
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
-### Follow e on Social Media
-
+### FOLLOW ME ON SOCIAL MEDIA
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -30,7 +29,7 @@
     </a>
 </p>
 
-### My github status
+### MY GITHUB STATUS FROM 2020
 
 <p align="center">
   <a href="https://github.com/HansanaDasanayaka/github-profile-trophy">
