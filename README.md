@@ -5,7 +5,7 @@
 
 <a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
-### Follow me on Social Media
+### Follow e on Social Media
 
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
@@ -28,7 +28,13 @@
              alt="Facebook"
         >
     </a>
-</p
+</p>
+
+### My github status
+
+[![Hansana's github trophy](https://github-profile-trophy.vercel.app/?username=HansanaDasanayaka&row=1)](https://github.com/HansanaDasanayaka/github-profile-trophy)
+
+
   
 ### Donate me using cryprocurrency
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)](https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3)
