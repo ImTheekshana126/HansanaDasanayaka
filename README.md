@@ -1,35 +1,13 @@
-<h1 align="center">👋 Hey, I am Hansana Dasanayaka</h1
+<center><h1>👋 Hey, I am Hansana Dasanayaka</h1></center>
 
-    <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
-        <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"
-             alt="GitHub followers">
-  
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-     <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"
-             alt="Ratings">
-    </a>
-    
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-    <img src="https://gpvc.arturio.dev/HansanaDasanayaka"
-            alt="Profile Views">
-    </a>
-    
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"
-            alt="Ask Me Anthing">
-    </a>  
-    
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-    <img src="https://img.shields.io/badge/Activity-Good-green.svg"
-            alt="Activity">
-    </a> 
-    
-    <a align="center" href="https://github.com/HansanaDasanayaka">
-    <img src="https://img.shields.io/badge/Ability-Better-red.svg"
-            alt="Ability">
-    </a>
-
-<a href="https://github.com/HansanaDasanayaka"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
+   <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
+   <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000">
+   <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana">
+   <img src="https://gpvc.arturio.dev/HansanaDasanayaka">
+   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+   <img src="https://img.shields.io/badge/Activity-Good-green.svg">
+   <img src="https://img.shields.io/badge/Ability-Better-red.svg">
+   <img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
 
 ### FOLLOW ME ON SOCIAL MEDIA
 <p align="center">   
