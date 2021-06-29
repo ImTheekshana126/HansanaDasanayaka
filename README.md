@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views"> <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"> <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"> <img src="https://gpvc.arturio.dev/HansanaDasanayaka"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"> <img src="https://img.shields.io/badge/Activity-Good-green.svg"> <img src="https://img.shields.io/badge/Ability-Better-red.svg"> <img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"></p>
 
-<h2 align="center">FOLLOW ME ON SOCIAL MEDIA</h2>
+<h2 align="center">𝙁𝙊𝙇𝙇𝙊𝙒 𝙈𝙀 𝙊𝙉 𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘿𝙄𝘼</h2>
 <p align="center">   
     <a href="https://www.instagram.com/hansana_dasanayake/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
