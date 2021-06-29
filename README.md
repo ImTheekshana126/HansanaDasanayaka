@@ -26,11 +26,9 @@
     
 <h2 align="center">MY LATEST GITHUB STATUS</h2>
    <p align="center">
-     )]()
-       
-  <a href="https://github.com/HansanaDasanayaka/github-readme-stats">
-   <img src=" https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=blue-white">
- </a> 
+ <a href="https://github.com/HansanaDasanayaka/github-readme-stats">
+   <img src=" https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&theme=dark">
+ </a>     
        
   <a href="https://github.com/HansanaDasanayaka/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=HansanaDasanayaka&row=1">
