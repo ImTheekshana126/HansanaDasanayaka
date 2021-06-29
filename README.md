@@ -1,13 +1,7 @@
-<center><h1>👋 Hey, I am Hansana Dasanayaka</h1></center>
+<p align="center">
+<h1>👋 Hey, I am Hansana Dasanayaka</h1>
 
-   <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
-   <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000">
-   <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana">
-   <img src="https://gpvc.arturio.dev/HansanaDasanayaka">
-   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
-   <img src="https://img.shields.io/badge/Activity-Good-green.svg">
-   <img src="https://img.shields.io/badge/Ability-Better-red.svg">
-   <img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a>
+<img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views"><img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000"><img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana"><img src="https://gpvc.arturio.dev/HansanaDasanayaka"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"><img src="https://img.shields.io/badge/Activity-Good-green.svg"><img src="https://img.shields.io/badge/Ability-Better-red.svg"><img align="centre" src="https://raw.githubusercontent.com/HansanaDasanayaka/HansanaDasanayaka/main/img/Header.jpg"> </a></p>
 
 ### FOLLOW ME ON SOCIAL MEDIA
 <p align="center">   
