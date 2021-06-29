@@ -21,7 +21,21 @@
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
              alt="Facebook">
     </a>
+    
+    <a href="https://www.quora.com/profile/Hansana-Dasanayaka">
+        <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"
+             alt="Quora">
+    </a>
+        <a href="https://codepen.io/hansana">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+             alt="CodePen.io">
+    </a>
+     <a href="https://stackoverflow.com/users/16218477/hansana-dasanayakaa">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+             alt="Stackoverflow"></a>
 </p>
+    
+    
 
     
 <h2 align="center">𝙈𝙔 𝙇𝘼𝙏𝙀𝙎𝙏 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎</h2>
