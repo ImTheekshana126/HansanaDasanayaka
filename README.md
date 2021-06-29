@@ -32,7 +32,7 @@
     
 <h2 align="center">𝘿𝙊𝙉𝘼𝙏𝙀 𝙈𝙀 𝘼𝙎 𝙔𝙊𝙐 𝘾𝘼𝙉</h2>
     
-<a href="https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3"><img align="centre" src="https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3" alt="Donate with Bitcoin"></a>
+<a href="https://en.cryptobadges.io/donate/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3"><img align="center" src="https://en.cryptobadges.io/badge/big/1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3" alt="Donate with Bitcoin"></a>
  <b>   
 - ✅ BTC -: `1DLds9Jjv28VSNbQhYdbNLFWdWfuKkJtN3`   
 - ✅ LTC -: `MKECR5TL8p1qbHfYkhqPWUuMrKL81eYJpG`
