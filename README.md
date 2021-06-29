@@ -1,22 +1,17 @@
 <h1 align="center"><b><i>👋 Hey, I am Hansana Dasanayaka</b></i></h1>
-<p align="center">
- 
- <p align="center">   
+<p align="center">   
     <a href="https://github.com/HansanaDasanayaka">
         <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
-    </a>
-  
-   <p align="center">   
+    </a>  
+     
     <a href="https://github.com/HansanaDasanayaka?tab=followers">
         <img src="https://img.shields.io/github/followers/HansanaDasanayaka.svg?style=flat&label=Follow&maxAge=2592000" alt="GitHub followers">
-    </a>
-    
-     <p align="center">   
+    </a>    
+       
     <a href="https://github.com/HansanaDasanayaka">
         <img src="https://img.shields.io/amo/rating/HansanaDasanayaka?label=Rating&logo=Hansana" alt="Ratings">
-    </a>
-      
-       <p align="center">   
+ </a> 
+          
     <a href="https://github.com/HansanaDasanayaka">
         <img src="https://gpvc.arturio.dev/HansanaDasanayaka" alt="Profile Views">
     </a>
