@@ -21,7 +21,7 @@
        <a href="https://github.com/HansanaDasanayaka">
        <img src="https://github-readme-stats.vercel.app/api?username=HansanaDasanayaka&show_icons=true&theme=radical"/>
  </p>
-  
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HansanaDasanayaka" alt="HansanaDasanayaka" /></p>
     
 <h2 align="center">𝘿𝙊𝙉𝘼𝙏𝙀 𝙈𝙀 𝘼𝙎 𝙔𝙊𝙐 𝘾𝘼𝙉</h2>
     
